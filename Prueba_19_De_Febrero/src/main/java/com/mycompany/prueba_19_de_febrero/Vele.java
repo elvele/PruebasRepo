@@ -22,13 +22,14 @@ public class Vele {
       Scanner inputNumScanner = new Scanner(System.in);
        
        //ingresamos la base
-       System.out.println("Ingrese La base ");       
+       System.out.println("Ingrese La base "); // que vaina mala       
         base = inputNumScanner.nextDouble();
        //ingresamos la altura
        System.out.println("Ingrese La altura ");
+       System.out.println("Kareverga78s ");
        altura = inputNumScanner.nextDouble();
         //se calculan el area del triangulo
-        area_triangulo = (float)(base*altura)/2;
+        area_triangulo = (float)(base*altura)/5;
        //imprimimos los datos digitados
         System.out.println("Base = " +base);
         System.out.println("Altura= " +altura);
