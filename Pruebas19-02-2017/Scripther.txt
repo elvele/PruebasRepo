@@ -1,0 +1,5 @@
+se necesita leer archivos de tipo txt en la ruta de documentos donde se lea nombres y apellidos registrados, los nombres de los archivos deben tener nombre archivoGenerado#.txt Donde '#' es el numero generado automaticamente al momento de guardado ejemplo "archivoGenerado101.txt".
+El archivo tiene la siguiente forma:
+
+Nombres: Cristian Andres
+Apellidos: Palacio Restrepo
