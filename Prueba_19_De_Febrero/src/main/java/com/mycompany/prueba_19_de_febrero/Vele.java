@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Vele {
     public static void main(String[] args) {
     // declaramos las variables
+    
         float area_triangulo ;
         double base;
         double altura;
