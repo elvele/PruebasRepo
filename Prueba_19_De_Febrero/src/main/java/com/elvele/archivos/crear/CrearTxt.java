@@ -33,7 +33,6 @@ File archivo;
   FileWriter escribir = new FileWriter(archivo,true)) {
 //Escribimos en el archivo con el metodo write 
 escribir.write(nombres+"\r\n");
-
 escribir.write(apellidos);
 //Cerramos la conexion
     }
